@@ -1,0 +1,11 @@
+index,title,authors,categories,description
+0,The Great Gatsby,F. Scott Fitzgerald,Classics,A story of the fabulously wealthy Jay Gatsby and his love for Daisy Buchanan.
+1,To Kill a Mockingbird,Harper Lee,Classics,The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it.
+2,1984,George Orwell,Science Fiction,A dystopian social science fiction novel and cautionary tale about totalitarianism and surveillance.
+3,Brave New World,Aldous Huxley,Science Fiction,A dystopian novel set in a futuristic World State whose citizens are environmentally engineered into an intelligence-based hierarchy.
+4,The Hobbit,J.R.R. Tolkien,Fantasy,Bilbo Baggins is a hobbit who enjoys a comfortable and unambitious life until Gandalf arrives with a company of dwarves.
+5,The Fellowship of the Ring,J.R.R. Tolkien,Fantasy,The first part of the epic fantasy novel The Lord of the Rings following Frodo Baggins.
+6,Deep Learning,Ian Goodfellow,Computer Science,An introduction to a broad range of topics in deep learning including neural networks and mathematical concepts.
+7,Hands-On Machine Learning,Aurelien Geron,Computer Science,A practical guide to machine learning with Scikit-Learn Keras and TensorFlow.
+8,Clean Code,Robert C. Martin,Computer Science,A handbook of agile software craftsmanship for writing readable and maintainable software.
+9,Design Patterns,Erich Gamma,Computer Science,Elements of reusable object-oriented software design patterns and best practices.

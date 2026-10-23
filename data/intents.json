@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good day", "Is anyone there?"],
+      "responses": ["Hello! Welcome to our bookstore. How can I help you find your next read today?", "Hi there! Looking for a specific book or recommendation?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Have a good day"],
+      "responses": ["Goodbye! Happy reading!", "Thank you for stopping by. See you next time!"]
+    },
+    {
+      "tag": "recommendation",
+      "patterns": ["Can you recommend a good book?", "I need book suggestions", "What should I read next?", "Recommend science fiction"],
+      "responses": ["I'd be glad to recommend titles! What genres or themes do you usually enjoy?", "Check out our recommendation engine or let me know your favorite author!"]
+    },
+    {
+      "tag": "hours",
+      "patterns": ["What are your opening hours?", "When are you open?", "What time do you close?", "Working hours"],
+      "responses": ["We are open Monday through Saturday from 9:00 AM to 9:00 PM, and Sunday from 10:00 AM to 6:00 PM."]
+    },
+    {
+      "tag": "search",
+      "patterns": ["Do you have a specific book?", "Can you check book availability?", "Search for an author", "Find a title"],
+      "responses": ["Please provide the title, author, or ISBN and I will search our inventory."]
+    }
+  ]
+}

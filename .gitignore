@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and checkpoints
+.pytest_cache/
+.ipynb_checkpoints/
+nltk_data/
+
+# Model files & large datasets
+*.h5
+*.keras
+*.pkl
+data/raw/
+data/books_large.csv
+
+# Environments
+.env
+.env.*
+venv/
+.venv/
+env/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
